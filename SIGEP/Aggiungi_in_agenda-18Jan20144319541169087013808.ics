@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTAMP:20140116T162523Z
+DTSTART:20140118T064500
+DTEND:20140118T100100
+SUMMARY:Viaggio Mira-Mirano-Riminifiera\, Mira-Mirano-Ve. Mestre:Treno Re
+ gionale 20770\, Codice Biglietto 50225168\,50225166\,50225167\,50225164\
+ ,50225165\,50225169 \, Ve. Mestre-Rimini:Treno FrecciaBianca 9801\, Carr
+  8\, Posti 17D\, 17C\, PNR NJYZA5\, Rimini-Riminifiera:Treno Regionale V
+ eloce 11530\, Codice Biglietto 50225168\,50225166\,50225167\,50225164\,5
+ 0225165\,50225169 \,  
+LOCATION:Mira-Mirano
+UID:20140116T162523Z-1390023900000@fe80:0:0:0:6cae:8bff:fe26:de1%18
+PRIORITY:1
+DESCRIPTION:Mira-Mirano-Riminifiera\;\nTreno: Regionale 20770\, partenza 
+ da Mira-Mirano Ore: 06:45\; arrivo a Ve. Mestre Ore: 06:57\nCodice Bigli
+ etto: 50225168\,50225166\,50225167\,50225164\,50225165\,50225169\;\nTren
+ o: FrecciaBianca 9801\, partenza da Ve. Mestre Ore: 07:09\; arrivo a Rim
+ ini Ore: 09:34\nCarroz 8\, Posti 17D\, Posti 17C\; codice pnr NJYZA5\nTr
+ eno: Regionale Veloce 11530\, partenza da Rimini Ore: 09:57\; arrivo a R
+ iminifiera Ore: 10:01\nCodice Biglietto: 50225168\,50225166\,50225167\,5
+ 0225164\,50225165\,50225169\;\n\n\n
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=BUYER:mailto:MIONMATTEO@TIN.IT
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=TRAVELLER:caccio67@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=TRAVELLER:MIONMATTEO@TIN.IT
+ORGANIZER;CN=ORGANIZER:mailto:webmaster@trenitalia.it
+END:VEVENT
+END:VCALENDAR

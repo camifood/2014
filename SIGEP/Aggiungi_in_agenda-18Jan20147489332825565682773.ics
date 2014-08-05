@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTAMP:20140116T162523Z
+DTSTART:20140118T172200
+DTEND:20140118T202900
+SUMMARY:Viaggio Riminifiera-Mira-Mirano\, Riminifiera-Bologna Centrale:Tr
+ eno FrecciaBianca 9824\, Carr 8\, Posti 3C\, 3D\, PNR NJYZA5\, Bologna C
+ entrale-Padova:Treno Frecciargento 9440\, Carr 5\, Posti 6A\, 6B\, PNR N
+ JYZA5\, Padova-Mira-Mirano:Treno Regionale 20851\, Codice Biglietto 5022
+ 5168\,50225166\,50225167\,50225164\,50225165\,50225169 \,  
+LOCATION:Riminifiera
+UID:20140116T162524Z-1390062120000@fe80:0:0:0:6cae:8bff:fe26:de1%18
+PRIORITY:1
+DESCRIPTION:Riminifiera-Mira-Mirano\;\nTreno: FrecciaBianca 9824\, parten
+ za da Riminifiera Ore: 17:22\; arrivo a Bologna Centrale Ore: 18:14\nCar
+ roz 8\, Posti 3C\, Posti 3D\; codice pnr NJYZA5\nTreno: Frecciargento 94
+ 40\, partenza da Bologna Centrale Ore: 18:55\; arrivo a Padova Ore: 19:5
+ 2\nCarroz 5\, Posti 6A\, Posti 6B\; codice pnr NJYZA5\nTreno: Regionale 
+ 20851\, partenza da Padova Ore: 20:05\; arrivo a Mira-Mirano Ore: 20:29\
+ nCodice Biglietto: 50225168\,50225166\,50225167\,50225164\,50225165\,502
+ 25169\;\n\n\n
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=BUYER:mailto:MIONMATTEO@TIN.ITMIONMATTEO
+ @TIN.IT
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=TRAVELLER:caccio67@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=TRAVELLER:MIONMATTEO@TIN.IT
+ORGANIZER;CN=ORGANIZER:mailto:webmaster@trenitalia.it
+END:VEVENT
+END:VCALENDAR
